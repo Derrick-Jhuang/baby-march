@@ -6,7 +6,7 @@
           <a herf="" class="el-icon icon-login"></a>
         </li>
         <li class="top-menu__item">
-          <a href="inquiry.html" class="el-icon icon-shopping-cart"></a>
+          <a href="inquiry.php" class="el-icon icon-shopping-cart"></a>
         </li>
         <li class="top-menu__item">
           <div class="language">
@@ -25,7 +25,7 @@
   </div>
 
   <div class="hd-wp l-wp:1506">
-    <a href="index.html" class="hd-logo">
+    <a href="index.php" class="hd-logo">
       <img src="images/header/logo.png" alt="">
     </a>
 
@@ -46,29 +46,29 @@
         <nav class="menu">
           <ul class="menu__list">
             <li class="menu__item">
-              <a href="index.html" class="menu__link">首頁</a>
+              <a href="index.php" class="menu__link">首頁</a>
             </li>
             <li class="menu__item">
-              <a href="news.html" class="menu__link">最新消息</a>
+              <a href="news.php" class="menu__link">最新消息</a>
             </li>
             <li class="menu__item">
-              <a href="about.html" class="menu__link">關於我們</a>
+              <a href="about.php" class="menu__link">關於我們</a>
             </li>
             <li class="menu__item">
-              <a href="products.html" class="menu__link">產品介紹</a>
+              <a href="products.php" class="menu__link">產品介紹</a>
             </li>
             <li class="menu__item">
-              <a href="community.html" class="menu__link">社群推薦</a>
+              <a href="community.php" class="menu__link">社群推薦</a>
             </li>
             <li class="menu__item">
-              <a href="catalog.html" class="menu__link">型錄下載</a>
+              <a href="catalog.php" class="menu__link">型錄下載</a>
             </li>
             <li class="menu__item">
-              <a href="contact.html" class="menu__link">聯絡我們</a>
+              <a href="contact.php" class="menu__link">聯絡我們</a>
             </li>
           </ul>
         </nav>
-        <form action="products.html" method="post" class="menu-search">
+        <form action="products.php" method="post" class="menu-search">
           <input type="text" placeholder="商品搜尋" class="menu-search__input">
           <button type="submit" class="menu-search__button">
             <div class="menu-search__icon icon-search-st1"></div>
@@ -85,7 +85,7 @@
         <div class="el-icon icon-search-st1 js-search-open"></div>
       </div>
       <div class="hd-tool__item">
-        <a href="inquiry.html" class="el-icon icon-shopping-cart"></a>
+        <a href="inquiry.php" class="el-icon icon-shopping-cart"></a>
       </div>
     </div>
   </div>

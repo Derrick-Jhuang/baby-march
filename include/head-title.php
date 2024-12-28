@@ -35,6 +35,7 @@
 <!-- Plug-in Style
 =============================================================================== -->
 <link rel="stylesheet" href="script/plugin/swiper/swiper.min.css">
+<link rel="stylesheet" href="script/plugin/fancybox/jquery.fancybox.min.css">
 
 <!-- Web Style 
 =============================================================================== -->

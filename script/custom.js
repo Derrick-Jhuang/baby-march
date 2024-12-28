@@ -293,10 +293,10 @@ let swiper = {
           el: '.c-bn__dot',
           clickable: true,
         },
-        // navigation: {
-        //     nextEl: '.js-btn-next',
-        //     prevEl: '.js-btn-prev'
-        // },
+        navigation: {
+          nextEl: '.js-swiper-banner-index .js-btn-next',
+          prevEl: '.js-swiper-banner-index .js-btn-prev'
+        },
     });
 
     let recommendSwiper = new Swiper('.idx-recommend-swiper', {
